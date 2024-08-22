@@ -1,34 +1,34 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
+    "title": "Kennedi Luna Perez | Portafolio",
+    "description": "Soy Kennedi, un entusiasta de los datos.",
+    "image": "/avatar.png",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Kennedi Luna",
+    "skill": "Data Analyst & Process Automation Specialists",
+    "location": "Lima, Perú",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "kennedi.luna@outlook.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/krtnn-lp",
+        "likedin": "https://github.com/krtnn-lp"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un apasionado analista de datos con una sólida formación y una amplia experiencia en herramientas como Power BI, Tableau, Power Query, SQL y SSAS, así como en la visualización de datos.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "name": "Power BI"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "name": "Tableau"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "name": "Pandas"
         },
         {
             "icon": "devicon-c-plain",
-            "name": "C"
+            "name": "Power automate"
         },
         {
             "icon": "devicon-python-plain",

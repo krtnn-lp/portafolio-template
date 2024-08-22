@@ -38,9 +38,10 @@ app = rx.App(
     stylesheets=STYLESHEETS,
     style=BASE_STYLE,
     theme=rx.theme(
-        appearance="dark",
-        accent_color="grass",
-        radius="full"
+        appearance="light",
+        accent_color="amber",
+        radius="large",
+        panel_background = "translucent"
     )
 )
 
